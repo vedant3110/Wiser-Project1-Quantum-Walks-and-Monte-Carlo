@@ -1,4 +1,5 @@
 # Quantum Walks and Monte Carlo – Quantum Galton Board Simulation
+**Authors:** Bidipta Saha, Vedant Ravindra Kalkotwar
 
 ## Overview
 
